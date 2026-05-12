@@ -1,0 +1,61 @@
+gametitle=ENTHUSIA PROFESSIONAL RACING / えんすーじあ ぷろふぇっしょなる れーしんぐ
+
+[Tire Grip - Level 1]
+author=real-xp / old forums
+description=Should be the most bouncy of them all
+patch=1,EE,A033F8A4,word,3C013E80
+patch=1,EE,A033F8E0,word,3C0142A0
+
+[Tire Grip - Level 2]
+author=real-xp / old forums
+description=Should be the less bouncy
+patch=1,EE,A033F8A4,word,3C013E80
+patch=1,EE,A033F8E0,word,3C01428C
+
+[Tire Grip - Level 3]
+author=real-xp / old forums
+description=Should be the even less bouncy
+patch=1,EE,A033F8A4,word,3C013E80
+patch=1,EE,A033F8E0,word,3C014280
+
+[Tire Grip - Level 4]
+author=real-xp / old forums
+description=Should be the least bounciest
+patch=1,EE,A033F8A4,word,3C013E80
+patch=1,EE,A033F8E0,word,3C014270
+
+[Tire Grip - Level 5]
+author=real-xp / old forums
+description=EXPERIMENTAL - NO BOUNCY
+patch=1,EE,A033F8A4,word,3C013E80
+patch=1,EE,A033F8E0,word,3C014200
+
+[Tire Grip - Level 6]
+author=real-xp / old forums
+description=EXPERIMENTAL - BOING 
+patch=1,EE,A033F8A4,word,3C013E80
+patch=1,EE,A033F8E0,word,3C014AA0
+
+[Tire Grip - Level 7]
+author=real-xp / old forums
+description=EXPERIMENTAL - BOING BOING
+patch=1,EE,A033F8A4,word,3C013E80
+patch=1,EE,A033F8E0,word,3C014FA0
+
+[Tire Grip - Level 8]
+author=real-xp / old forums
+description=EXPERIMENTAL - BOING BOING BOING
+patch=1,EE,A033F8A4,word,3C013E80
+patch=1,EE,A033F8E0,word,3C014FFF
+
+[Tire Grip - Drift / Deathtrap]
+author=real-xp / old forums
+description=Rear Wheel grip changed, cars tend to drift, more death-trappy
+patch=1,EE,1033F8E0,short,3C01425C
+patch=1,EE,1013F8A4,short,3C013EA0
+
+[Tire Grip - Drift / Deathtrap 2]
+author=real-xp / old forums
+description=Rear Wheel grip changed, cars tend to drift, more death-trappy
+patch=1,EE,1033F8E0,short,3C010000
+patch=1,EE,1013F8A4,short,3C013EA0

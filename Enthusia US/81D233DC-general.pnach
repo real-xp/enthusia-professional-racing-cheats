@@ -1,0 +1,50 @@
+gametitle=Enthusia Professional Racing
+
+[AI Nerf]
+author=real-xp / old forums
+description=AI is stupid. Very Slow.
+patch=1,EE,A0108B50,word,1000000B
+patch=1,EE,A0105040,word,10200004
+
+[Strip Driver Points From Race]
+author=real-xp / old forums
+description=Strip Driver Points From Race. -9999 points per race. (troll xdd)
+patch=1,EE,20226910,extended,00000000
+
+[Race Ban]
+author=real-xp / old forums
+description=You will no longer be able to race as your driver points will be set to 0 automatically.
+patch=1,EE,203E31E8,word,00000063
+
+[High Driver HP]
+author=real-xp / old forums
+description=Increases Driver HP to absurd levels.
+patch=1,EE,203E31E8,word,1456b00c
+
+[Unlock All Cars]
+author=real-xp / old forums
+description=Unlocks all cars
+patch=1,EE,2029AEC8,word,24040000
+patch=1,EE,2029AECC,word,AC440000
+
+[Unlock All Free Racing Tracks]
+author=real-xp / old forums
+description=Unlocks all tracks
+patch=1,EE,2029B0C0,word,24040000
+patch=1,EE,2029B0C4,word,AC440000
+
+[Unlock All DR Tracks]
+author=real-xp / old forums
+description=Unlocks all DR tracks
+patch=1,EE,003E3244,short,00000012
+patch=1,EE,20167B5C,word,24020003
+patch=1,EE,20167B60,word,A0820000
+
+[S Rank DR All Tracks]
+author=real-xp / old forums
+description=Unlocks all S ranks
+patch=1,EE,20168118,word,00400821
+patch=1,EE,200C0220,word,24020000
+patch=1,EE,200C0224,word,03E00008
+patch=1,EE,200C0228,word,AC220004
+patch=1,EE,20168120,word,08030088

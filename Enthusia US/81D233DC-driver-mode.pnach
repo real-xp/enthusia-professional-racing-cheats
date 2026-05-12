@@ -1,0 +1,97 @@
+gametitle=Enthusia Professional Racing
+
+[Debug Car - Enthu Life]
+author=real-xp / old forums
+description=Drive the debug car. Controls: Right Stick = Move, Left Stick = Turn, DPad = Move, Hold L2 = Move faster
+patch=1,EE,D173F0B4,short,00000001
+patch=1,EE,2173F0B4,word,00000006
+
+[Debug Car - Time Attack]
+author=real-xp / old forums
+description=Drive the debug car. Controls: Right Stick = Move, Left Stick = Turn, DPad = Move, Hold L2 = Move faster
+patch=1,EE,D15350C4,short,00000001
+patch=1,EE,215350C4,word,00000006
+
+[Debug Car - Free Race]
+author=real-xp / old forums
+description=Drive the debug car. Controls: Right Stick = Move, Left Stick = Turn, DPad = Move, Hold L2 = Move faster
+patch=1,EE,D16EB784,short,00000001
+patch=1,EE,216EB784,word,00000006
+
+[Debug Car - Driving Revolution]
+author=real-xp / old forums
+description=Drive the debug car. Controls: Right Stick = Move, Left Stick = Turn, DPad = Move, Hold L2 = Move faster
+patch=1,EE,D13354B4,short,00000001
+patch=1,EE,213354B4,word,00000006
+
+[Auto Drive Car - Enthu Life]
+author=real-xp / old forums
+description=Uses the AI model from Pre and Post race. No user control over car.
+patch=1,EE,D173F0B4,short,00000001
+patch=1,EE,2173F0B4,word,00000002
+
+[Auto Drive Car - Time Attack]
+author=real-xp / old forums
+description=Uses the AI model from Pre and Post race. No user control over car.
+patch=1,EE,D15350C4,short,00000001
+patch=1,EE,215350C4,word,00000002
+
+[Auto Drive Car - Free Race]
+author=real-xp / old forums
+description=Uses the AI model from Pre and Post race. No user control over car.
+patch=1,EE,D16EB784,short,00000001
+patch=1,EE,216EB784,word,00000002
+
+[Auto Drive Car - Driving Revolution]
+author=real-xp / old forums
+description=Uses the AI model from Pre and Post race. No user control over car. Does not know gates. Stupid AI.
+patch=1,EE,D13354B4,short,00000001
+patch=1,EE,213354B4,word,00000002
+
+[Auto Drive Car RS - Enthu Life]
+author=real-xp / old forums
+description=Uses the RS AI (Best AI). No user control over car.
+patch=1,EE,D173F0B4,short,00000001
+patch=1,EE,2173F0B4,word,00000003
+
+[Auto Drive Car RS - Time Attack]
+author=real-xp / old forums
+description=Uses the RS AI (Best AI). No user control over car.
+patch=1,EE,D15350C4,short,00000001
+patch=1,EE,215350C4,word,00000003
+
+[Auto Drive Car RS - Free Race]
+author=real-xp / old forums
+description=Uses the RS AI (Best AI). No user control over car.
+patch=1,EE,D16EB784,short,00000001
+patch=1,EE,216EB784,word,00000003
+
+[Auto Drive Car RS - Driving Revolution]
+author=real-xp / old forums
+description=Uses the RS AI (Best AI). No user control over car. Does not know gates. Stupid AI.
+patch=1,EE,D13354B4,short,00000001
+patch=1,EE,213354B4,word,00000003
+
+[Brake Car - Enthu Life]
+author=real-xp / old forums
+description=Uses the post race braking action in maps like Mirage or Dragon Range. No user control over car.
+patch=1,EE,D173F0B4,short,00000001
+patch=1,EE,2173F0B4,word,00000004
+
+[Brake Car - Time Attack]
+author=real-xp / old forums
+description=Uses the post race braking action in maps like Mirage or Dragon Range. No user control over car.
+patch=1,EE,D15350C4,short,00000001
+patch=1,EE,215350C4,word,00000004
+
+[Brake Car - Free Race]
+author=real-xp / old forums
+description=Uses the post race braking action in maps like Mirage or Dragon Range. No user control over car.
+patch=1,EE,D16EB784,short,00000001
+patch=1,EE,216EB784,word,00000004
+
+[Brake Car - Driving Revolution]
+author=real-xp / old forums
+description=Uses the post race braking action in maps like Mirage or Dragon Range. No user control over car.
+patch=1,EE,D13354B4,short,00000001
+patch=1,EE,213354B4,word,00000004
