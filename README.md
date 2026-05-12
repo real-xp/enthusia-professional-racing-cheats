@@ -24,7 +24,7 @@ As cheats are region specific and usually in other cheat device formats that is 
 - If you did the installation right, you should see a bunch of cheats in the folder, along with their description
 - **NOTE - PLEASE MAKE SURE YOUR ACHIEVEMENTS ARE SET TO SOFTCORE OR ARE DISABLED**
 - **NOTE - Sometimes the cheats can be buggy, or may not have any effect on the game, or may even crash the game, so it is recommended to do an emulator reset, or go back to an untampered savestate**
-- **NOTE - If you are a speedrunner, PLEASE MAKE SURE to disable cheats before you start your run, or in the best case, remove the cheats from the `cheats` folder**
+- **NOTE - If you are a speedrunner, PLEASE MAKE SURE to disable cheats before you start your run, or in the best case, remove the cheats from the `cheats` folder (or you can also enable RA Hardcore Mode)**
 
 # Credits
 - Old Japanese wiki and archived pages on Internet Archive
