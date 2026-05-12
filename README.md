@@ -1,7 +1,7 @@
 # Enthusia Professional Racing - Cheats
 This is a repository that contains cheat codes for the PS2 game Enthusia : Professional Racing in the `.pnach` format.
 
-A lot of these codes are from old forums, especially Japanese archived forums and some were found by me while tinkering with the game with a debugger attached.
+Some of these codes are from old forums, especially Japanese archived forums and some were found by me while tinkering with the game with a debugger attached.
 
 As cheats are region specific and usually in other cheat device formats that is not `.pnach`, a lot of cheats were manually ported over to other version (US to JP and JP to US) by debugging all versions of the game after hours of work.
 
