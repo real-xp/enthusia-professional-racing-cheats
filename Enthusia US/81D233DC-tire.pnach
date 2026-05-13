@@ -53,9 +53,3 @@ author=real-xp / old forums
 description=Rear Wheel grip changed, cars tend to drift, more death-trappy
 patch=1,EE,1033A5F0,short,3C01425C
 patch=1,EE,1013F87C,short,3C013EA0
-
-[Tire Grip - Drift / Deathtrap 2]
-author=real-xp / old forums
-description=Rear Wheel grip changed, cars tend to drift, more death-trappy
-patch=1,EE,1033A5F0,short,3C010000
-patch=1,EE,1013F87C,short,3C013EA0

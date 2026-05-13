@@ -1,0 +1,31 @@
+gametitle=Enthusia Professional Racing
+
+[Replay Mode Drive Car - Enthu Life]
+author=real-xp
+description=EXPERIMENTAL - This looks like what the replay mode uses. No control over car, but VGS works.
+patch=1,EE,D173F0B4,short,00000001
+patch=1,EE,2173F0B4,word,00000008
+
+[Replay Mode Drive Car - Time Attack]
+author=real-xp
+description=EXPERIMENTAL - This looks like what the replay mode uses. No control over car, but VGS works.
+patch=1,EE,D15350C4,short,00000001
+patch=1,EE,215350C4,word,00000008
+
+[Replay Mode Drive Car - Free Race]
+author=real-xp
+description=EXPERIMENTAL - This looks like what the replay mode uses. No control over car, but VGS works.
+patch=1,EE,D16EB784,short,00000001
+patch=1,EE,216EB784,word,00000008
+
+[Replay Mode Drive Car - Driving Revolution]
+author=real-xp
+description=EXPERIMENTAL - This looks like what the replay mode uses. No control over car, but VGS works.
+patch=1,EE,D13354B4,short,00000001
+patch=1,EE,213354B4,word,00000008
+
+[Tire Grip - Drift / Deathtrap 2]
+author=real-xp
+description=Rear Wheel grip changed, cars tend to drift, more death-trappy
+patch=1,EE,1033A5F0,short,3C010000
+patch=1,EE,1013F87C,short,3C013EA0

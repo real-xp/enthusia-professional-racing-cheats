@@ -2,7 +2,7 @@ gametitle=ENTHUSIA PROFESSIONAL RACING / えんすーじあ ぷろふぇっし�
 
 [TEST 1]
 author=real-xp / old forums
-description=Hypothesis - Rendering Masks
+description=DO NOT USE - Hypothesis - Rendering Masks
 patch=1,EE,201D88A4,extended,00000002
 patch=1,EE,202D43BC,extended,00000002
 patch=1,EE,202D43F8,extended,00000002
@@ -14,17 +14,17 @@ patch=1,EE,20128324,extended,00000002
 
 [TEST1]
 author=real-xp / old forums
-description=TEST1
+description=DO NOT USE - TEST1
 patch=1,EE,103D9B24,short,0000FFFF
 
 [TEST2]
 author=real-xp / old forums
-description=TEST1
+description=DO NOT USE - TEST1
 patch=1,EE,103E8868,short,0000FFFF
 
 [TEST3]
 author=real-xp / old forums
-description=TEST1
+description=DO NOT USE - TEST1
 patch=1,EE,003E88C4,short,00000003
 patch=1,EE,103E88C6,short,00000303
 patch=1,EE,403E88C8,short,000F0001
