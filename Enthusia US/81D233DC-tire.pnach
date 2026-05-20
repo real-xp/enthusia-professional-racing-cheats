@@ -1,5 +1,11 @@
 gametitle=Enthusia Professional Racing
 
+[Tire Grip - Default]
+author=real-xp
+description=Default Tire Grip
+patch=1,EE,A033A5B4,word,3C013F00
+patch=1,EE,A033A5F0,word,3C0141A0
+
 [Tire Grip - Level 1]
 author=real-xp
 description=Should be the most bouncy of them all
