@@ -43,7 +43,7 @@ dpatch=0,2,2,0,3C013C88,4,34218888,0,3C013B08,4,34218889
 [Riolu Mode - some more it]
 author=real-xp
 description=EXPERIMENTAL : Game runs at some of the speed
-dpatch=0,2,2,0,3C013C88,4,34218888,0,3C013608,4,34218889
+dpatch=0,2,2,0,3C013C88,4,34218888,0,3C013A08,4,34218889
 
 [Anti Riolu Mode]
 author=real-xp
