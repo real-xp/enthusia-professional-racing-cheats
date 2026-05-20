@@ -1,5 +1,11 @@
 gametitle=Enthusia Professional Racing
 
+[Remove Speedometer Delay]
+author=Azullia / real-xp
+description=Removes the stupid speedometer delay of 0.333 seconds
+patch=1,EE,00117E74,byte,46000001
+patch=1,EE,20117E74,word,46000001
+
 [AI Nerf]
 author=real-xp
 description=AI is stupid. Very Slow.
