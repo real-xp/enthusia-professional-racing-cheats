@@ -29,3 +29,23 @@ author=real-xp
 description=Rear Wheel grip changed, cars tend to drift, more death-trappy
 patch=1,EE,1033A5F0,short,3C010000
 patch=1,EE,1013F87C,short,3C013EA0
+
+[Riolu Mode]
+author=real-xp
+description=EXPERIMENTAL : Game runs at half the speed
+dpatch=0,2,2,0,3C013C88,4,34218888,0,3C013C08,4,34218889
+
+[Riolu Mode - some it]
+author=real-xp
+description=EXPERIMENTAL : Game runs at some of the speed
+dpatch=0,2,2,0,3C013C88,4,34218888,0,3C013B08,4,34218889
+
+[Riolu Mode - some more it]
+author=real-xp
+description=EXPERIMENTAL : Game runs at some of the speed
+dpatch=0,2,2,0,3C013C88,4,34218888,0,3C013608,4,34218889
+
+[Anti Riolu Mode]
+author=real-xp
+description=EXPERIMENTAL : Game runs at double the speed
+dpatch=0,2,2,0,3C013C88,4,34218888,0,3C013D08,4,34218889
