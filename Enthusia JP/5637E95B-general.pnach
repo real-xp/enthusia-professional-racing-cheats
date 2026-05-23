@@ -6,6 +6,14 @@ description=Removes the stupid speedometer delay of 0.333 seconds
 patch=1,EE,00117E74,byte,46000001
 patch=1,EE,20117E74,word,46000001
 
+[Trigger Patch]
+author=real-xp / Azullia
+description=Removes the deadzone and fixes the trigger range when using L2/R2 for brake/throttle.
+patch=3,EE,20146208,extended,240903DF
+patch=3,EE,20146214,extended,00842026
+patch=3,EE,20146864,extended,46010043
+patch=3,EE,20146868,extended,46010840
+
 [AI Nerf]
 author=real-xp / old forums
 description=AI is stupid. Very Slow.

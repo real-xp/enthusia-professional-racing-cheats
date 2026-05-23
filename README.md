@@ -28,7 +28,6 @@ As cheats are region specific and usually in other cheat device formats that is 
 
 # Issues
 - Driver Cheats don't seem to work properly in Free Mode. Fix is not using them or using them AFTER the map loads in.
-- Trigger Patch not ported over to JP. Very hard to port over controller logic, we have to give up (for now).
 
 # Credits
 - Old Japanese wiki and archived pages on Internet Archive
