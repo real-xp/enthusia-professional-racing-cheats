@@ -26,6 +26,10 @@ As cheats are region specific and usually in other cheat device formats that is 
 - **NOTE - Sometimes the cheats can be buggy, or may not have any effect on the game, or may even crash the game, so it is recommended to do an emulator reset, or go back to an untampered savestate**
 - **NOTE - If you are a speedrunner, PLEASE MAKE SURE to disable cheats before you start your run, or in the best case, remove the cheats from the `cheats` folder (or you can also enable RA Hardcore Mode)**
 
+# Issues
+- Driver Cheats don't seem to work properly in Free Mode. Fix is not using them or using them AFTER the map loads in.
+- Trigger Patch not ported over to JP. Very hard to port over controller logic, we have to give up (for now).
+
 # Credits
 - Old Japanese wiki and archived pages on Internet Archive
 - Azullia (thanks!)
